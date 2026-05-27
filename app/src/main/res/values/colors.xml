@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4FC3F7</color>
+    <color name="primary_variant">#0097A7</color>
+    <color name="on_primary">#000000</color>
+
+    <color name="background">#1A1A2E</color>
+    <color name="surface">#16213E</color>
+    <color name="on_surface">#E1E1E1</color>
+
+    <color name="button_number">#0F3460</color>
+    <color name="button_operator">#FF6B35</color>
+    <color name="button_scientific">#7B2CBF</color>
+    <color name="button_clear">#E63946</color>
+
+    <color name="text_display">#FFFFFF</color>
+    <color name="text_secondary">#8892B0</color>
+</resources>
